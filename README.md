@@ -17,25 +17,7 @@ _***Currently(and future) Learning:***_
         </div>
       </div>
     </td>
-  </tr>
-  
-  <tr>
-  <td class="border_l border_r border_t border_b selected">
-    <div class="wrap">
-      <div style="margin: 10px 5px;">
-        <p align="left">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-        </p>
-      </div>
-    </div>
-  </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td class="border_l border_r border_t border_b selected">
+     <td class="border_l border_r border_t border_b selected">
       <div class="wrap">
         <div style="margin: 10px 5px, font-weight: bold;">
           <p align="center">Frontend Development</p>
@@ -49,10 +31,27 @@ _***Currently(and future) Learning:***_
         </div>
       </div>
     </td>
+    <td class="border_l border_r border_t border_b selected">
+      <div class="wrap">
+        <div style="margin: 10px 5px, font-weight: bold;">
+          <p align="center">Tools/Frameworks</p>
+        </div>
+      </div>
+    </td>
   </tr>
   
   <tr>
   <td class="border_l border_r border_t border_b selected">
+    <div class="wrap">
+      <div style="margin: 10px 5px;">
+        <p align="left">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+        </p>
+      </div>
+    </div>
+  </td>
+   <td class="border_l border_r border_t border_b selected">
     <div class="wrap">
       <div style="margin: 10px 5px;">
         <p align="left">
@@ -68,28 +67,13 @@ _***Currently(and future) Learning:***_
     <div class="wrap">
       <div style="margin: 10px 5px;">
         <p align="left">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
         </p>
       </div>
     </div>
   </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td class="border_l border_r border_t border_b selected">
-      <div class="wrap">
-        <div style="margin: 10px 5px, font-weight: bold;">
-          <p align="center">Tools/Frameworks</p>
-        </div>
-      </div>
-    </td>
-  </tr>
-  
-  <tr>
-  <td class="border_l border_r border_t border_b selected">
     <div class="wrap">
       <div style="margin: 10px 5px;">
         <p align="left">
@@ -106,8 +90,6 @@ _***Currently(and future) Learning:***_
   </td>
   </tr>
 </table>
-
-<br/>
 <br/>
 
 <p align="center">
