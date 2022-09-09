@@ -7,7 +7,7 @@
 
 <br/>
 
-_***Currently(and future) Learning:***_
+_***Currently Learning:***_
 <table>
   <tr>
     <td class="border_l border_r border_t border_b selected">
@@ -27,7 +27,7 @@ _***Currently(and future) Learning:***_
     <td class="border_l border_r border_t border_b selected">
       <div class="wrap">
         <div style="margin: 10px 5px, font-weight: bold;">
-          <p align="center">Backend Development</p>
+          <p align="center">Database</p>
         </div>
       </div>
     </td>
@@ -68,7 +68,7 @@ _***Currently(and future) Learning:***_
       <div style="margin: 10px 5px;">
         <p align="left">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+          <img src="https://user-images.githubusercontent.com/88183888/189326336-4465c612-8a2e-4674-8649-6dd5589746d8.png" alt="postgree" width="40" height="40"/> 
         </p>
       </div>
     </div>
