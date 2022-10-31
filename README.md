@@ -1,106 +1,49 @@
-<h1 align="center">Hi there 👋, I'm Mahmuda Karima</h1>
+<h1 align="center">Hi there 👋, I'm Mahmuda Karima (Daka)</h1>
 <p align="center" style="font-style: italic;">"Jadilah orang yang bermanfaat"</p>
 
 - 🌱 I’m a **Software Engineer**
 - 📫 How to reach me **dakasakti.id@gmail.com**
-- ⚡ Fun fact **Love Freedom**
 
-<br/>
+<hr>
 
-_***Currently Learning:***_
-<table>
-  <tr>
-    <td class="border_l border_r border_t border_b selected">
-      <div class="wrap">
-        <div style="margin: 10px 5px, font-weight: bold;">
-          <p align="center">Programming Language</p>
-        </div>
-      </div>
-    </td>
-     <td class="border_l border_r border_t border_b selected">
-      <div class="wrap">
-        <div style="margin: 10px 5px, font-weight: bold;">
-          <p align="center">Frontend Development</p>
-        </div>
-      </div>
-    </td>
-    <td class="border_l border_r border_t border_b selected">
-      <div class="wrap">
-        <div style="margin: 10px 5px, font-weight: bold;">
-          <p align="center">Database</p>
-        </div>
-      </div>
-    </td>
-    <td class="border_l border_r border_t border_b selected">
-      <div class="wrap">
-        <div style="margin: 10px 5px, font-weight: bold;">
-          <p align="center">Tools/Frameworks</p>
-        </div>
-      </div>
-    </td>
-  </tr>
-  
-  <tr>
-  <td class="border_l border_r border_t border_b selected">
-    <div class="wrap">
-      <div style="margin: 10px 5px;">
-        <p align="left">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-        </p>
-      </div>
-    </div>
-  </td>
-   <td class="border_l border_r border_t border_b selected">
-    <div class="wrap">
-      <div style="margin: 10px 5px;">
-        <p align="left">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>  
-          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-        </p>
-      </div>
-    </div>
-  </td>
-  <td class="border_l border_r border_t border_b selected">
-    <div class="wrap">
-      <div style="margin: 10px 5px;">
-        <p align="left">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-          <img src="https://user-images.githubusercontent.com/88183888/189326336-4465c612-8a2e-4674-8649-6dd5589746d8.png" alt="postgree" width="40" height="40"/> 
-        </p>
-      </div>
-    </div>
-  </td>
-    <td class="border_l border_r border_t border_b selected">
-    <div class="wrap">
-      <div style="margin: 10px 5px;">
-        <p align="left">
-          <img src="https://user-images.githubusercontent.com/88183888/173044490-aa814edc-7fae-4113-9268-c062d291f7c8.png" alt="echo" width="40" height="40"/>
-          <img src="https://user-images.githubusercontent.com/88183888/173044839-022e6d94-4639-4f27-a4d7-9b9621168a5a.png" alt="gorm" width="40" height="40"/>                   <img src="https://user-images.githubusercontent.com/88183888/173045046-0b222111-90a7-4de9-a604-d004aaf1952e.png" alt="laravel" width="40" height="40"/>
-          <img src="https://user-images.githubusercontent.com/88183888/173047567-075886af-bcf4-4fe2-8226-f9241e0484ad.png" alt="composer" width="40" height="40"/>
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-        </p>
-      </div>
-    </div>
-  </td>
-  </tr>
-</table>
-<br/>
+### 🛠 &nbsp;Tech Stack
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
+![Echo](https://img.shields.io/badge/-Echo-05122A?style=flat&logo=echolabstack&logoColor=563D7C)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=563D7C)
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=Tailwindcss)
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Action-000?style=flat&logo=githubactions)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)&nbsp;
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
+
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://linkedin.com/in/mahmuda-karima" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mahmuda Karima" height="30" width="30" />
-  </a>
-  <a href="https://fb.com/dakasakti.id" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Mahmuda Karima" height="30" width="30" />
-  </a>
-  <a href="https://instagram.com/daka99.official" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Mahmuda Karima" height="30" width="30" />
-  </a>
+<a href="https://github.com/dakasakti">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dakasakti&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dakasakti&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://linkedin.com/in/mahmuda-karima"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/daka99.official"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/dakasakti.id"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
